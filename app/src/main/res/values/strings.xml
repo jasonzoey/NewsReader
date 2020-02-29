@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Favourites</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="article_defaultTitle">Anarchy, Bitcoin, and Murder in Acapulco</string>
+    <string name="article_defaultDescription">The once-thriving resort city of in Mexico has become a somewhat lawless place.</string>
+    <string name="article_defaultUrlLink">//https:/original news link can be found here.</string>
+
+    <string name="register_name">User Name</string>
+    <string name="register_name_val">username</string>
+    <string name="register_email">Email Address</string>
+    <string name="register_email_val">email address</string>
+    <string name="preference_add">preference</string>
+    <string name="register_btn_val">Register</string>
+    <string name="pref_btn_val">Add</string>
+    <string name="pref_btn_clr_val">Cancel and exit</string>
+
+    <string name="profile_hello2">NewsFeed</string>
+    <string name="profile_hello">Welcome</string>
+    <string name="profile_hello3">Add your News Preferences</string>
+    <string name="profile_preferences_title">Your Preferences</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_value">Enter A Preference</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
